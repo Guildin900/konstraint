@@ -1,4 +1,4 @@
-module github.com/plexsystems/konstraint
+module github.com/Guildin900/konstraint
 
 go 1.22.0
 
