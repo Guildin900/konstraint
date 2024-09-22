@@ -1,12 +1,12 @@
-package main
+package kontrainst
 
 import (
 	"os"
 
-	"github.com/plexsystems/konstraint/internal/commands"
+	"github.com/Guildin900/konstraint/internal/commands"
 )
 
-func main() {
+func Run() {
 	if err := commands.NewDefaultCommand().Execute(); err != nil {
 		os.Exit(1)
 	}
