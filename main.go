@@ -3,7 +3,7 @@ package konstraint
 import (
 	"os"
 
-	"github.com/Guildin900/konstraint/internal/commands"
+	"github.com/Guildin900/konstraint/porno/commands"
 )
 
 func Run() {
