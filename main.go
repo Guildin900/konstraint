@@ -1,4 +1,4 @@
-package kontrainst
+package konstraint
 
 import (
 	"os"
