@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/plexsystems/konstraint/internal/rego"
+	"github.com/Guildin900/konstraint/porno/rego"
 
 	v1 "github.com/open-policy-agent/frameworks/constraint/pkg/apis/templates/v1"
 	"github.com/open-policy-agent/frameworks/constraint/pkg/apis/templates/v1beta1"
